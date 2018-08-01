@@ -4,7 +4,7 @@
 # puts "Squawk!"
 # end
 
-def parrot (Squawk)
+def parrot(Squawk)
 print Squawk
   # puts "Squawk!"
 end
