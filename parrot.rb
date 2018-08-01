@@ -6,7 +6,8 @@
 
 def parrot(phrase="Squawk!")
 # phrase = "Squawk!"
- phrase
+puts  phrase
+phrase
  # p "Squawk!"
  # "Squawk!"
 end
