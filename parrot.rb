@@ -6,7 +6,7 @@
 
 def parrot(phrase="Squawk!")
 # phrase = "Squawk!"
-return phrase
+ phrase
  # p "Squawk!"
  # "Squawk!"
 end
