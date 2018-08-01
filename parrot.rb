@@ -5,8 +5,8 @@
 # end
 
 def parrot(*name)
-phrase = "Squawk!"
 puts phrase
+phrase = "Squawk!"
 # "Squawk!"
  # "Squawk!"
 end
