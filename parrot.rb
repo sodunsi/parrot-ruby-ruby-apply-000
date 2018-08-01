@@ -8,9 +8,10 @@ def parrot(*name)
 phrase = "Squawk!"
 puts phrase
  "Squawk!"
- return
+ # return
  # "Squawk!"
 end
+return
 
 
 # puts parrot('Squawk!')
