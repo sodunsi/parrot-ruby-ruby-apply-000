@@ -8,6 +8,7 @@ def parrot(*input)
 phrase = "Squawk!"
 puts phrase
  p "Squawk!"
+ return input
  # "Squawk!"
 end
 # return
