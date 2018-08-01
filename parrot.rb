@@ -6,8 +6,8 @@
 
 def parrot
 phrase = "Squawk!"
-  puts phrase
-  return
+return  puts phrase
+  
   # puts "Squawk!"
 end
 
