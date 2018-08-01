@@ -4,7 +4,7 @@
 # puts "Squawk!"
 # end
 
-def parrot(*phase)
+def parrot(*name)
 phrase = "Squawk!"
 puts phrase
 "Squawk!"
