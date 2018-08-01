@@ -11,7 +11,7 @@ puts phrase
  # return
  # "Squawk!"
 end
-return
+# return
 
 
 # puts parrot('Squawk!')
