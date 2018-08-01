@@ -5,7 +5,7 @@
 # end
 
 def parrot (Squawk)
-puts Squawk
+print Squawk
   # puts "Squawk!"
 end
 
