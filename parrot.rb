@@ -4,8 +4,8 @@
 # puts "Squawk!"
 # end
 
-def parrot(*input)
-phrase = "Squawk!"
+def parrot(phrase="Squawk!", x)
+# phrase = "Squawk!"
 puts phrase
  p "Squawk!"
  # "Squawk!"
