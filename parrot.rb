@@ -9,6 +9,6 @@ phrase = "Squawk!"
 puts phrase
  # "Squawk!"
 end
-return phrase
+phrase
 
 # puts parrot('Squawk!')
